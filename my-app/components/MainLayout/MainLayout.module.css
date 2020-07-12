@@ -1,0 +1,14 @@
+.container {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+.navBarItem {
+  margin: 0;
+  padding: 8px 16px;
+  color: #ff6b6b;
+  font-weight: bold;
+}
+.navBarItem h2 {
+  font-size: 30px;
+  color: #c7f464;
+}
